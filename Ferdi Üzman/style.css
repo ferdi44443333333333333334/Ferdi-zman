@@ -1,0 +1,54 @@
+*{
+  margin: 20;
+  padding: 0;
+}
+.container{
+background: url(blue);
+height: 100vh;
+background-size: 100½ 100½;
+} 
+  .container.navbar{
+   width:100½ ;
+   height: 80px;
+   background:  blue rgba(22,112,214,0,4) 
+ }
+
+.navbar.logo{
+display:inline-black;
+margin-left:50px;
+}
+.navbar.logo{
+display: inline-block;
+margin-left: 50px;
+margin-top: 20px;
+}
+.navbar ul{
+  float:right;
+  margin-right: 20px;
+}
+ul{
+display:flex;
+list-style-type:none;
+}
+ul li{
+margin:30px;
+}
+ul{
+display:flex;
+list-style-type:none;
+}
+ul li{
+margin:30px;
+}
+ul{
+display:flex;
+list-style-type:none;
+}
+ul li{
+margin:30px;
+}
+
+
+
+
+
